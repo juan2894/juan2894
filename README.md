@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @juan2894
-- 👀 I’m interested in web development, especially improving HTML, CSS, and JavaScript skills.
-- 🌱 I’m currently learning advanced JavaScript and optimizing web forms for better user experiences.
-- 💞️ I’m looking to collaborate on projects related to web development, front-end frameworks, and user interface optimization.
-- 📫 How to reach me: via GitHub.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy discovering new ways to make code more efficient!
-
---->
+- 👋 Hi, I’m Juan Felipe Garavito @juan2894  
+- 👀 I’m interested in integrating technology into healthcare, focusing on web development with HTML, CSS, and JavaScript to create efficient medical tools.  
+- 🌱 I’m currently learning advanced JavaScript, Python, and how to optimize web forms for dynamic user interaction and data storage using `localStorage` and `sessionStorage`.  
+- 💞️ I’m looking to collaborate on projects involving healthcare technology, front-end development, and automating medical processes.  
+- 📫 How to reach me: via GitHub or LinkedIn.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: As a physician, I’m passionate about bridging the gap between healthcare and technology to improve patient care through innovative coding solutions!  
