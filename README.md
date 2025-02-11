@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juan Felipe Garavito @juan2894  
+- 👋 Hi, I’m Juan Felipe Garavito Arias @juan2894  
 - 👀 I’m interested in integrating technology into healthcare, focusing on web development with HTML, CSS, and JavaScript to create efficient medical tools.  
 - 🌱 I’m currently learning advanced JavaScript, Python, and how to optimize web forms for dynamic user interaction and data storage using `localStorage` and `sessionStorage`.  
 - 💞️ I’m looking to collaborate on projects involving healthcare technology, front-end development, and automating medical processes.  
